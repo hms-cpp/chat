@@ -1,0 +1,1 @@
+g++ main.cpp -I./src -lpthread -o game

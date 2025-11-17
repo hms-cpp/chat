@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/project/include/server",
+                "${workspaceFolder}/project/include",
+                "${workspaceFolder}/project/include/server/db",
+                "${workspaceFolder}/project/include/server/model",
+                "${workspaceFolder}/project/include/server/redis"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
